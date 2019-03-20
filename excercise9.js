@@ -1,6 +1,6 @@
 function cariPelaku(str) {
     var filter = (str.match(/abc/gi));
-    console.log(filter)
+    // console.log(filter)
     return filter.length
 }
   
